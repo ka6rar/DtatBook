@@ -1,9 +1,13 @@
-[
-    {
-        "id": 1 ,
-        "name": "jajja" ,
-        "img": "https://ka6rar.github.io/DtatBook/img/1.png" ,
-        "file": "https://ka6rar.github.io/DtatBook/20.pdf" ,
-        "classe_id": 1
+{
+    "stage_1": {
+        "class_1":{
+            "1":{
+                "name": "قراءة" ,
+                "img": "https://ka6rar.github.io/DtatBook/img/1.png" ,
+                "file": "https://ka6rar.github.io/DtatBook/20.pdf"  
+            }
+
+        }
     }
-]
+    
+}
