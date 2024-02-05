@@ -6,6 +6,11 @@
                 "name": "قراءة" ,
                 "img": "https://ka6rar.github.io/DtatBook/img/1.png" ,
                 "file": "https://ka6rar.github.io/DtatBook/20.pdf"  
+            } ,
+            "2":{
+                "name": "EN" ,
+                "img": "https://ka6rar.github.io/DtatBook/img/1.png" ,
+                "file": "https://ka6rar.github.io/DtatBook/20.pdf"  
             }
 
         }
