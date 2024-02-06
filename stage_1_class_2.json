@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1 ,
+        "name": "اسلامية" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الاسلامية الثاني الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الاسلامية الثاني الابتدائي.pdf" 
+    } ,
+    {
+        "id": 2 ,
+        "name": "القراءة" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب قراءتي الثاني الابتدائي_page-0001 (1).jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب قراءتي الثاني الابتدائي.pdf" 
+    } ,
+    {
+        "id": 3 ,
+        "name": "لانكليزي الطالب" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الانكليزي الطالب الثاني الابتدائي - الوحدة الاولى_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الانكليزي الطالب الثاني الابتدائي - الوحدة الاولى.pdf" 
+    } ,
+    {
+        "id": 4 ,
+        "name": "الانكليزي النشاط" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الانكليزي النشاط الثاني الابتدائي - الوحدة الاولى_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الانكليزي النشاط الثاني الابتدائي - الوحدة الاولى.pdf" 
+    } ,
+    {
+        "id": 5 ,
+        "name": "الرياضيات التلميذ" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الرياضيات الثاني الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الرياضيات الثاني الابتدائي.pdf" 
+    } ,
+    {
+        "id": 6 ,
+        "name": "الرياضيات التمرينات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الرياضيات التمرينات الثاني الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الرياضيات التمرينات الثاني الابتدائي.pdf" 
+    } ,
+    {
+        "id": 7 ,
+        "name": "لعلوم التلميذ" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب العلوم الثاني الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب العلوم الثاني الابتدائي.pdf" 
+    } 
+   
+]
