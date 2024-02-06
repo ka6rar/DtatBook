@@ -7,8 +7,47 @@
     } ,
     {
         "id": 2 ,
-        "name": "" ,
-        "img":  "" ,
-        "file": "f" 
-    } 
+        "name": "القراءة " ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب قراءتي الاول الابتدائي._page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب قراءتي الاول الابتدائي.pdf" 
+    } ,
+    {
+        "id": 3 ,
+        "name": "لانكليزي الطالب" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الانكليزي الطالب الاول الابتدائي - الوحدة الاولى.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الانكليزي الطالب الاول الابتدائي - الوحدة الاولى.pdf" 
+    } ,
+    {
+        "id": 4 ,
+        "name": "الانكليزي النشاط" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الانكليزي النشاط الاول الابتدائي - الوحدة الاولى_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الانكليزي النشاط الاول الابتدائي - الوحدة الاولى.pdf" 
+    } ,
+    {
+        "id": 5 ,
+        "name": "الرياضيات التلميذ" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الرياضيات الاول الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الرياضيات الاول الابتدائي.pdf" 
+    } ,
+    {
+        "id": 6 ,
+        "name": "الرياضيات التمرينات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب الرياضيات التمرينات الاول الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب الرياضيات التمرينات الاول الابتدائي.pdf" 
+    } ,
+    {
+        "id": 7 ,
+        "name": " العلوم التلميذ" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب العلوم الاول الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب العلوم الاول الابتدائي.pdf" 
+    }   ,
+    {
+        "id": 7 ,
+        "name": " العلوم النشاط" ,
+        "img":  "https://ka6rar.github.io/DtatBook/img/كتاب العلوم النشاط الاول الابتدائي_page-0001.jpg" ,
+        "file": "https://ka6rar.github.io/DtatBook/pdf/كتاب العلوم النشاط الاول الابتدائي.pdf" 
+    }  
+
+
+   
 ]
