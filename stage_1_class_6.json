@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1 ,
+        "name": "الاسلامية" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب الاسلامية السادس الابتدائي_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    } ,
+    {
+        "id": 2 ,
+        "name": "القراءة" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب القراءة السادس الابتدائي_page-0001 (1).jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%a1%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    } 
+    ,
+    {
+        "id": 3 ,
+        "name": "القواعد" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/DEDEDEWD_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%85%d8%b7%d8%a7%d8%a8%d9%82/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    }  ,
+    {
+        "id": 4 ,
+        "name": "الانكليزي الطالب"  ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب الانكليزي الطالب سادس ابتدائي كامل_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%85%d8%b7%d8%a7%d8%a8%d9%82/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%20%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%20%d9%83%d8%a7%d9%85%d9%84.pdf" 
+    }  ,
+    {
+        "id": 5 ,
+        "name": "نشاط الانكليزي" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/نشاط السادس الابتدائي محلول الاستاذ علي البديري_page-0001.jpg" ,
+        "file": "https://m6.shr4.com/m6/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%86%d8%b4%d8%a7%d8%b7%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%20%d9%85%d8%ad%d9%84%d9%88%d9%84%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%b9%d9%84%d9%8a%20%d8%a7%d9%84%d8%a8%d8%af%d9%8a%d8%b1%d9%8a.pdf" 
+    }  ,
+    {
+        "id": 6 ,
+        "name": "الرياضيات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب الرياضيات السادس الابتدائي_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    }  ,
+    {
+        "id": 7,
+        "name": "تمرينات الرياضيات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب الرياضيات التمرينات السادس الابتدائي_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%aa%d9%85%d8%b1%d9%8a%d9%86%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    }  ,
+    {
+        "id": 8 ,
+        "name": "علوم ملون" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب العلوم السادس الابتدائي_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    }  ,
+    {
+        "id": 9 ,
+        "name": "نشاط العلوم" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/نشاط العلوم سادس ابتدائي .indd_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    } 
+    ,
+    {
+        "id": 10 ,
+        "name": "الاجتماعيات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_6_img/كتاب الاجتماعيات السادس الابتدائي_page-0001.jpg" ,
+        "file": "https://bk1.shr4.com/books/b6/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf" 
+    } 
+]
