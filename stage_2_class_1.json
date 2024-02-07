@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1 ,
+        "name": "الاسلامية" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب السلامية الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,
+    {
+        "id": 2 ,
+        "name": "العربية الجزء الاول" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب العربي الاول المتوسط الجزء الاول_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84.pdf" 
+    } ,  {
+        "id": 3 ,
+        "name": "العربية الجزء الثاني" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب العربي الاول المتوسط الجزء الثاني_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a.pdf" 
+    } ,  {
+        "id": 4 ,
+        "name": "" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/" ,
+        "file": "" 
+    } ,  {
+        "id": 5 ,
+        "name": "الانكليزي الطالب " ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الانكليزي الطالب الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  {
+        "id": 6 ,
+        "name": "الانكليزي النشاط" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الانكليزي النشاط الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  {
+        "id":  7,
+        "name": "الرياضيات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الرياضيات الاول متوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  
+    {
+        "id": 8 ,
+        "name": "الاجتماعيات" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الاجتماعيات الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  
+    {
+        "id": 9 ,
+        "name": "الاحياء" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الاحياء الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  
+    {
+        "id": 10 ,
+        "name": "الكيمياء" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الكيمياء الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%83%d9%8a%d9%85%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  
+    {
+        "id": 11,
+        "name": "الفيزياء" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الفيزياء الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    } ,  
+    {
+        "id": 12 ,
+        "name": "الحاسوب" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الحاسوب الاول المتوسط_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
+    }  ,  
+    {
+        "id": 13 ,
+        "name": "الفرنسي" ,
+        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_1_img/كتاب الفرنسي المرحلة المتوسطة المنهج الجديد_page-0001.jpg" ,
+        "file": "https://bk2.shr4.com/books/bb1/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d8%a9%20%d8%a7%d9%84%d9%85%d9%86%d9%87%d8%ac%20%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af.pdf" 
+    } 
+]
