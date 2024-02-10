@@ -2,7 +2,7 @@
     {
         "id": 1,
         "version": "2024" ,
-        "conformity": "99%" ,
+        "conformity": "99" ,
         "preparation": "الاستاذ شامل الحديدي" ,
         "name": "الاسلامية",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الاسلامية الاول متوسط الاستاذ شامل الحديدي_page-0001.jpg",
@@ -10,21 +10,158 @@
     },
     {
         "id": 2,
-        "version": "" ,
-        "conformity": "" ,
-        "preparation": "" ,
+        "version": "2023" ,
+        "conformity": "99" ,
+        "preparation": "الدكتور مهند كريم الشمري" ,
         "name": "عربي جز 1",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة العربي الاول المتوسط دكتور مهند ج 1_page-0001.jpg",
         "file": "https://m7.shr4.com/m7/%d8%b9%d8%b1%d8%a8%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%af%d9%83%d8%aa%d9%88%d8%b1%20%d9%85%d9%87%d9%86%d8%af%20%d8%ac%201.pdf"
     },
     {
         "id": 3,
-        "version": "" ,
-        "conformity": "" ,
-        "preparation": "" ,
+        "version": "2023" ,
+        "conformity": "99" ,
+        "preparation": "الدكتور مهند كريم الشمري" ,
         "name": "عربي جز 2",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة العربي الاول المتوسط دكتور مهند ج 2_page-0001.jpg",
         "file": "https://m7.shr4.com/m7/%d8%b9%d8%b1%d8%a8%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%af%d9%83%d8%aa%d9%88%d8%b1%20%d9%85%d9%87%d9%86%d8%af%20%d8%ac%202.pdf"
+    },
+    {
+        "id": 4,
+        "version": "2024" ,
+        "conformity": "100" ,
+        "preparation": "الاستاذ علي يحيى" ,
+        "name": "ملزمة انكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول المتوسط الاستاذ علي يحيى_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%b9%d9%84%d9%8a%20%d9%8a%d8%ad%d9%8a%d9%89.pdf"
+    }
+    ,
+    {
+        "id": 5,
+        "version": "2024" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ علي الجبوري" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الاستاذ علي الجبوري_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%b9%d9%84%d9%8a%20%d8%a7%d9%84%d8%ac%d8%a8%d9%88%d8%b1%d9%8a.pdf"
+    },
+    {
+        "id": 6,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ مصطفى عبد هلال" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الاسلامية الاول متوسط الاستاذ شامل الحديدي_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d9%85%d8%b5%d8%b7%d9%81%d9%89%20%d8%b9%d8%a8%d8%af%20%d9%87%d9%84%d8%a7%d9%84%20%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d9%8a.pdf"
+    },
+    {
+        "id": 7,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ قصي فارس" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الاستاذ قصي فارس عبداللطيف_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d9%82%d8%b5%d9%8a%20%d9%81%d8%a7%d8%b1%d8%b3%20%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81.pdf"
+    },
+    {
+        "id": 8,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ محمد منيب" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الاستاذ محمد منيب الخفاجي_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d9%85%d8%ad%d9%85%d8%af%20%d9%85%d9%86%d9%8a%d8%a8%20%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d8%ac%d9%8a.pdf"
+    },
+    {
+        "id": 9,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ حسن العبيدي" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الاستاذ علي الجبوري_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%ad%d8%b3%d9%86%20%d8%a7%d9%84%d8%b9%d8%a8%d9%8a%d8%af%d9%8a.pdf"
+    },
+    {
+        "id": 10,
+        "version": "2023" ,
+        "conformity": "99" ,
+        "preparation": "الاستاذ طه حسين" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الاستاذ طه حسين - اول 4 وحدات_pages-to-jpg-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%b7%d9%87%20%d8%ad%d8%b3%d9%8a%d9%86%20-%20%d8%a7%d9%88%d9%84%204%20%d9%88%d8%ad%d8%af%d8%a7%d8%aa.pdf"
+    },
+    {
+        "id": 11,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الست مروة سامي" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة اللغة الانكليزية للصف الأول المتوسط 2024 الوحدات الثلاثة الأولى إعداد الست مروه سامي حميد httpst.meBBBBFII_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%ae%d8%b5%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%b3%d8%aa%20%d9%85%d8%b1%d9%88%d8%a9%20%d8%b3%d8%a7%d9%85%d9%8a%20-%20%d8%a7%d9%88%d9%84%203%20%d9%81%d8%b5%d9%88%d9%84.pdf"
+    },
+    {
+        "id": 12,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الست ليلى سلام" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة انكليزي اول متوسط الست ليلى سلام_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%b3%d8%aa%20%d9%84%d9%8a%d9%84%d9%89%20%d8%b3%d9%84%d8%a7%d9%85.pdf"
+    },
+    
+    {
+        "id": 13,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الست نيران مجيد" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/ملزمة الانكليزي الاول متوسط الست نيران_page-0001.jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%b3%d8%aa%20%d9%86%d9%8a%d8%b1%d8%a7%d9%86.pdf"
+    },
+    {
+        "id": 14,
+        "version": "2023-2024" ,
+        "conformity": "99" ,
+        "preparation": "الست هاجر حامد" ,
+        "name": "ملزمة الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/PowerPoint Presentation_page-0001 (1).jpg",
+        "file": "https://m7.shr4.com/m7/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%b3%d8%aa%20%d9%87%d8%a7%d8%ac%d8%b1%20%d8%ad%d8%a7%d9%85%d8%af.pdf"
+    },
+    {
+        "id": 4,
+        "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
+        "name": "",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/",
+        "file": ""
+    },
+    {
+        "id": 4,
+        "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
+        "name": "",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/",
+        "file": ""
+    },
+    {
+        "id": 4,
+        "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
+        "name": "",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/",
+        "file": ""
+    },
+    {
+        "id": 4,
+        "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
+        "name": "",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/",
+        "file": ""
     },
     {
         "id": 4,
@@ -35,5 +172,4 @@
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_1/",
         "file": ""
     }
-    
 ]
