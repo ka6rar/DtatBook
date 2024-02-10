@@ -1,76 +1,110 @@
 [
     {
-        "id": 1 ,
-        "name": "الاسلامية" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب السلامية الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 1,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الاسلامية",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب السلامية الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 2 ,
-        "name": "العربي الجز 1" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب العربي الثاني المتوسط الجزء الاول_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84.pdf" 
-    } ,
+        "id": 2,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "العربي الجز 1",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب العربي الثاني المتوسط الجزء الاول_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84.pdf"
+    },
     {
-        "id": 3 ,
-        "name": "العربي الجزء الثاني" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب العربي الثاني المتوسط الجزء الثاني_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a.pdf" 
-    } ,
+        "id": 3,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "العربي الجزء الثاني",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب العربي الثاني المتوسط الجزء الثاني_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a.pdf"
+    },
     {
         "id": 4,
-        "name": " الانكليزي" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الانكليزي الطالب الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": " الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الانكليزي الطالب الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
         "id": 5,
-        "name": "النشاط الانكليزي" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الانكليزي النشاط الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "النشاط الانكليزي",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الانكليزي النشاط الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 6 ,
-        "name": "الرياضيات" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/تنقيح الفصل الاول.indd_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 6,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الرياضيات",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/تنقيح الفصل الاول.indd_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 7 ,
-        "name": "الاجتماعيات" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الاجتماعيات الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 7,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الاجتماعيات",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الاجتماعيات الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 8 ,
-        "name": "الاحياء" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الاحياء الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 8,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الاحياء",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الاحياء الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 9 ,
-        "name": "الكيمياء" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/الكيمياء.indd_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%83%d9%8a%d9%85%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 9,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الكيمياء",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/الكيمياء.indd_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%83%d9%8a%d9%85%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 10 ,
-        "name": "الفيزياء" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الفيزياء الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 10,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الفيزياء",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الفيزياء الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
-        "id": 11 ,
-        "name": "الحاسوب" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الحاسوب الثاني المتوسط_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf" 
-    } ,
+        "id": 11,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الحاسوب",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الحاسوب الثاني المتوسط_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    },
     {
         "id": 12,
-        "name": "الفرنسي" ,
-        "img":  "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الفرنسي المرحلة المتوسطة المنهج الجديد_page-0001.jpg" ,
-        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d8%a9%20%d8%a7%d9%84%d9%85%d9%86%d9%87%d8%ac%20%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af.pdf" 
-    } 
-     
-     
+        "version": "",
+        "conformity": "",
+        "preparation": "",
+        "name": "الفرنسي",
+        "img": "https://ka6rar.github.io/DtatBook/stage_2_class_2_img/كتاب الفرنسي المرحلة المتوسطة المنهج الجديد_page-0001.jpg",
+        "file": "https://bk2.shr4.com/books/bb2/2023-2024/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d8%a9%20%d8%a7%d9%84%d9%85%d9%86%d9%87%d8%ac%20%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af.pdf"
+    }
 ]

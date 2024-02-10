@@ -1,80 +1,117 @@
 [
     {
         "id": 1,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "اسلامية",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة الاسلامية السادس الابتدائي _page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%20.pdf"
     },
     {
         "id": 2,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "القواعد",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة القواعد السادس الابتدائي_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d9%82%d9%88%d8%a7%d8%b9%d8%af/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf"
     },
     {
         "id": 3,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاستاذ طه حسين",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة الانكليزي السادس الابتدائي 2021 الاستاذ طه حسين_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%202021%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%b7%d9%87%20%d8%ad%d8%b3%d9%8a%d9%86.pdf"
     },
     {
         "id": 4,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاستاذ احمد شكري",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة اللغة الإنكليزية السادس الابتدائي الاستاذ احمد_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d9%84%d8%ba%d8%a9%20%d8%a7%d9%84%d8%a5%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%20%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0%20%d8%a7%d8%ad%d9%85%d8%af.pdf"
     },
     {
         "id": 5,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاستاذ وليد طعمة",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة السادس للوحدات الاربع - وليد طعمة_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d9%84%d9%84%d9%88%d8%ad%d8%af%d8%a7%d8%aa%20%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%20-%20%d9%88%d9%84%d9%8a%d8%af%20%d8%b7%d8%b9%d9%85%d8%a9.pdf"
     },
     {
         "id": 6,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "ملخص الاستاذ حسن المزوري",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/Microsoft Word - ملخص شامل لكتاب السادس - حسن المزوري.docx_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a/%d9%85%d9%84%d8%ae%d8%b5/%d9%85%d9%84%d8%ae%d8%b5%20%d8%b4%d8%a7%d9%85%d9%84%20%d9%84%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%84%d8%ba%d8%a9%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%202020.pdf"
-    }
-    ,
+    },
     {
         "id": 7,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "رياضيات",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة رياضيات سادس ابتدائي_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA/%D9%85%D9%84%D8%B2%D9%85%D8%A9%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%AF%D8%B3%20%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.pdf"
-    }
-    ,
+    },
     {
-        "id": 8 ,
+        "id": 8,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاستاذ حيدر السعداوي",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة العلوم السادس الابتدائي 2020 حيدر السعداوي_page-0001 (1).jpg",
         "file": "https://m6.shr4.com/m6/%d8%b9%d9%84%d9%88%d9%85/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%202020%20%d8%ad%d9%8a%d8%af%d8%b1%20%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d8%a7%d9%88%d9%8a.pdf"
-    }   ,
+    },
     {
         "id": 9,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "للست شمياء الذهبي",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة العلوم السادس الابتدائي_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%b9%d9%84%d9%88%d9%85/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a.pdf"
-    }   ,
+    },
     {
         "id": 10,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاستاذ احمد شاكر",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملخص علوم السادس 1123_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%b9%d9%84%d9%88%d9%85/%d9%85%d9%84%d8%ae%d8%b5%20%d8%b9%d9%84%d9%88%d9%85%20%d9%84%d9%84%d8%b5%d9%81%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%202020.pdf"
-    }   ,
+    },
     {
         "id": 11,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاجتماعيات",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملزمة الاجتماعيات السادس ابتدائي 2020_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%202020.pdf"
-    }   ,
+    },
     {
         "id": 12,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "ملخص الست زينة ",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/اجتماعيات ست زينة سادس ابتدائي كاملة_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa%20%d8%b3%d8%aa%20%d8%b2%d9%8a%d9%86%d8%a9%20%d8%b3%d8%a7%d8%af%d8%b3%20%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a%20%d9%83%d8%a7%d9%85%d9%84%d8%a9.pdf"
-    }   ,
+    },
     {
         "id": 13,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "ملخص أ. سعد",
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_1_class_6/ملخص مادة الإجتماعيات_page-0001.jpg",
         "file": "https://m6.shr4.com/m6/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa/%d9%85%d9%84%d8%ae%d8%b5%20%d9%85%d8%a7%d8%af%d8%a9%20%d8%a7%d9%84%d8%a5%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa.pdf"

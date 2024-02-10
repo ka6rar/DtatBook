@@ -1,48 +1,72 @@
 [
     {
         "id": 1 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "الاسلامية" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب الاسلامية الثالث الابتدائي._page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب الاسلامية الثالث الابتدائي.pdf" 
     } ,
     {
         "id": 2 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "القراءة" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب قراءتي الثالث الابتدائي._page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب قراءتي الثالث الابتدائي.pdf" 
     } ,
     {
         "id": 3 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "لانكليزي الطالب" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب الانكليزي الطالب الثالث الابتدائي - الوحدة الاولى._page-0001 (1).jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب الانكليزي الطالب الثالث الابتدائي - الوحدة الاولى.pdf" 
     } ,
     {
         "id": 4 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "الانكليزي النشاط" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب الانكليزي النشاط الثالث الابتدائي - الوحدة الاولى_page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب الانكليزي النشاط الثالث الابتدائي - الوحدة الاولى.pdf" 
     } ,
     {
         "id": 5 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": " الرياضيات الملون" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب الرياضيات الثالث الابتدائي_page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب الرياضيات الثالث الابتدائي.pdf" 
     } ,
     {
         "id": 6 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "الرياضيات التمرينات" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب الرياضيات التمرينات الثالث الابتدائي._page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب الرياضيات التمرينات الثالث الابتدائي.pdf" 
     } ,
     {
         "id": 7 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "العلوم الملون" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب العلوم الثالث الابتدائي_page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب العلوم الثالث الابتدائي.pdf" 
     } ,
     {
         "id": 8 ,
+         "version": "" ,
+        "conformity": "" ,
+        "preparation": "" ,
         "name": "العلوم النشاط" ,
         "img":  "https://ka6rar.github.io/DtatBook/stage_1_class_3_img/كتاب العلوم النشاط الثالث الابتدائي._page-0001.jpg" ,
         "file": "https://ka6rar.github.io/DtatBook/stage_1_class_3_pdf/كتاب العلوم النشاط الثالث الابتدائي.pdf" 

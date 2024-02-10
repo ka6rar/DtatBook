@@ -1,75 +1,110 @@
 [
     {
         "id": 1,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاسلامية",
         "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب السلامية الرابع الاعدادي_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 2,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "العربي الجزء الاول ",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب العربي الرابع الاعدادي الجزء الاول_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب العربي الرابع الاعدادي الجزء الاول_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%a7%d9%88%d9%84.pdf"
-    } ,
+    },
     {
         "id": 3,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "العربي الجزء الثاني ",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب العربي الرابع الاعدادي الجزء الثاني_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب العربي الرابع الاعدادي الجزء الثاني_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a%20%d8%a7%d9%84%d8%ac%d8%b2%d8%a1%20%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 4,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الانكليزي ",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/IRAQ_G10_PB_2022_BOOK.indb_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/IRAQ_G10_PB_2022_BOOK.indb_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20(%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8)%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a%20-%20%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%89.pdf"
-    } ,
+    },
     {
         "id": 5,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "النشاط الانكليزي",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/IRAQ_G10_AB_2022_BOOK.indb_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/IRAQ_G10_AB_2022_BOOK.indb_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%a7%d9%86%d9%83%d9%84%d9%8a%d8%b2%d9%8a%20(%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7)%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a%20-%20%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9%20%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%89.pdf"
-    } ,
+    },
     {
         "id": 6,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الرياضيات",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/نموذج للرياضيات.indd_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/نموذج للرياضيات.indd_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 7,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "التاريخ",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/تاريخ الرابع ادبي 2014.indd_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/تاريخ الرابع ادبي 2014.indd_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 8,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الجغرافية",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب اسس الجغرافية الرابع الادبي_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب اسس الجغرافية الرابع الادبي_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d8%b3%d8%b3%20%d8%a7%d9%84%d8%ac%d8%ba%d8%b1%d8%a7%d9%81%d9%8a%d8%a9%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 9,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الاجتماع",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب علم الاجتماع الرابع الادبي_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب علم الاجتماع الرابع الادبي_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%b9%d9%84%d9%85%20%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%af%d8%a8%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 10,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الحاسوب",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب الحاسوب الرابع الاعدادي_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب الحاسوب الرابع الاعدادي_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a.pdf"
-    } ,
+    },
     {
         "id": 11,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الفرنسي",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب الفرنسي الرابع الاعدادي_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/كتاب الفرنسي الرابع الاعدادي_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a.pdf"
-    }
-    ,
+    },
     {
         "id": 12,
+        "version": "",
+        "conformity": "",
+        "preparation": "",
         "name": "الكردي",
-        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/الكتاب الكردي للرابع الاعدادي.cdr_page-0001.jpg" ,
+        "img": "https://ka6rar.github.io/DtatBook/stage_3_class_4_adbe_img/الكتاب الكردي للرابع الاعدادي.cdr_page-0001.jpg",
         "file": "https://bk3.shr4.com/books/bb4/2023-2024/%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a/%d9%83%d8%aa%d8%a7%d8%a8%20%d8%a7%d9%84%d9%83%d8%b1%d8%af%d9%8a%20%d8%a7%d9%84%d8%b5%d9%81%20%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%20%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af%d9%8a.pdf"
     }
 ]
