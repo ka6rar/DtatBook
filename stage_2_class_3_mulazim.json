@@ -719,5 +719,33 @@
         "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_3/حلول وزاريات فيزياء ثالث المتوسط نيمار_page-0001.jpg",
         "file": "https://m9.shr4.com/m9/%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1/%d9%88%d8%b2%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa/%d8%ad%d9%84%d9%88%d9%84%20%d9%88%d8%b2%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa%20%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1%20%d8%ab%d8%a7%d9%84%d8%ab%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d9%86%d9%8a%d9%85%d8%a7%d8%b1.pdf"
     }
-
+    ,
+    {
+        "id": 80,
+        "version": "2022 – 2023",
+        "conformity": "99",
+        "preparation": "الاستاذ احمد جبار",
+        "name":  "ملزمة الاجتماعيات",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_3/ملزمة اجتماعيات الصف الثالث_page-0001.jpg",
+        "file" : "https://m9.shr4.com/m9/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA/%D9%85%D9%84%D8%B2%D9%85%D8%A9%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB.pdf"
+    }   ,
+    {
+        "id": 81,
+        "version": "-",
+        "conformity": "99",
+        "preparation": "الاستاذ اسماعيل",
+        "name":  "ملزمة فرنسي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_3/ملزمة الفرنسي الثالث المتوسط_page-0001.jpg",
+        "file" : "https://m9.shr4.com/m9/%d9%81%d8%b1%d9%86%d8%b3%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%20%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7.pdf"
+    }   ,
+    {
+        "id": 82,
+        "version": "-",
+        "conformity": "99",
+        "preparation": "الاستاذ فراس",
+        "name":  "ملزمة فرنسي",
+        "img": "https://ka6rar.github.io/DtatBook/mulazim/stage_2_class_3/ملزمة فرنسي ثالث متوسط فراس الحمداني_page-0001.jpg",
+        "file" : "https://m9.shr4.com/m9/%d9%81%d8%b1%d9%86%d8%b3%d9%8a/%d9%85%d9%84%d8%b2%d9%85%d8%a9%20%d9%81%d8%b1%d9%86%d8%b3%d9%8a%20%d8%ab%d8%a7%d9%84%d8%ab%20%d9%85%d8%aa%d9%88%d8%b3%d8%b7%20%d9%81%d8%b1%d8%a7%d8%b3%20%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a.pdf"
+    }   
+    
 ]
